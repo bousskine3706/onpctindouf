@@ -1,0 +1,18 @@
+
+{
+  "short_name": "جرد تندوف",
+  "name": "نظام الجرد الرقمي للتراث – تندوف",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/2234/2234655.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#1e293b",
+  "background_color": "#f8fafc",
+  "orientation": "portrait"
+}
